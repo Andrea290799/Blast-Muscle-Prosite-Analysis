@@ -20,15 +20,15 @@ Muscle, Matplolib and BioPython.
     ./main.py [query_file] [genbanks_directory/] [identity] [coverage] [evalue] [prosite_file]
 
 
-prosite -> file that contains prosite database to analize. It has to be located in the same directory as this script.
+*prosite* -> file that contains prosite database to analize. It has to be located in the same directory as this script.
 
-query_file -> file that contains query sequences to analize. It has to be located in the same directory as this script.
+*query_file* -> file that contains query sequences to analize. It has to be located in the same directory as this script.
 
-genbanks_directory -> directory that contains genbanks files to analize. It is necessary to include a '\' after de directory's name. It has to be located in the same directory as this script.
+*genbanks_directory* -> directory that contains genbanks files to analize. It is necessary to include a '\' after de directory's name. It has to be located in the same directory as this script.
 
 -----------------For using the default value, introduce a non numeric character.---------------------
 
-identity -> minimum identity percentage required. 0 <= number <= 100
-coverage -> minimum coverage percentage required. 0 <= number <= 100
-evalue -> minimum evalue percentage required. 0 <= number <= 100.
+*identity* -> minimum identity percentage required. 0 <= number <= 100
+*coverage* -> minimum coverage percentage required. 0 <= number <= 100
+*evalue* -> minimum evalue percentage required. 0 <= number <= 100.
 
