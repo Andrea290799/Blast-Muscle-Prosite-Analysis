@@ -24,7 +24,7 @@ Muscle, Matplolib and BioPython.
 
 *query_file* -> file that contains query sequences to analize. It has to be located in the same directory as this script.
 
-*genbanks_directory* -> directory that contains genbanks files to analize. It is necessary to include a '\' after de directory's name. It has to be located in the same directory as this script.
+*genbanks_directory* -> directory that contains genbanks files to analize. It is necessary to include a '/' after de directory's name. It has to be located in the same directory as this script.
 
 -----------------For using the default value, introduce a non numeric character.---------------------
 
