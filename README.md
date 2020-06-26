@@ -29,6 +29,8 @@ Muscle, Matplolib and BioPython.
 -----------------For using the default value, introduce a non numeric character.---------------------
 
 *identity* -> minimum identity percentage required. 0 <= number <= 100
+
 *coverage* -> minimum coverage percentage required. 0 <= number <= 100
+
 *evalue* -> minimum evalue percentage required. 0 <= number <= 100.
 
